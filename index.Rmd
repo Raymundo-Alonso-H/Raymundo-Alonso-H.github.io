@@ -22,7 +22,7 @@ library(fontawesome)
 
 #### **Bio** 
 
-I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.
+I am interested in farmacogenomics, autoimmune disease, evolution and bioinformatics.
 
 Founding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM)) | web page: https://viernesbioinformatica.github.io/ | Github: [ViernesBioinfo2024](https://github.com/EveliaCoss/ViernesBioinfo2024) and [ViernesBioinfo2023](https://github.com/EveliaCoss/ViernesBioinfo2023)
 

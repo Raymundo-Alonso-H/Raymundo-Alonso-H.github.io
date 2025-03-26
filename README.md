@@ -4,14 +4,13 @@
 
 ### Bio
 
-I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics. Founding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @LIIGH-UNAM) and R-Ladies Morelia.
+I am interested in biostatistics in clinical trials, farmacogenomics, data managament and evolution and bioinformatics.
 
-- Web page: https://viernesbioinformatica.github.io/ | Github: [ViernesBioinfo2024](https://github.com/EveliaCoss/ViernesBioinfo2024) and [ViernesBioinfo2023](https://github.com/EveliaCoss/ViernesBioinfo2023)
 
 ### Education
 
-- Postdoctoral Fellowship | @LIIGH-UNAM | Dr. @Alejandra Medina-Rivera | February 2023 - Present
-- PhD in Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. @Selene Fernandez-Valverde | August 2018 - January 2023
+- MSc in Biochemistry | Posgrado en Ciencias Bioquímicas - Facultad de Química | Dr. Jorge Nieto Sotelo | 2021 - 2024
+- BS in Biology | Instituto de Biología | Dr. Jorge Nieto Sotelo | 2013 - 2019
 
 ###  Experience
 
@@ -19,5 +18,3 @@ Member of the @JAGUAR Project, @R-ladies Morelia, @RIABIO, @LupusRGMX, @CDSB Mex
 
 ###  Repository Contributions:
 
-- Webpage Plants&Python | Github Plants&Python | Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso
-- Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana | Github Transcriptome-guided_lncRNA_annotation | Dr. @Selene Fernandez-Valverde

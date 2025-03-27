@@ -22,7 +22,7 @@ library(fontawesome)
 
 #### **Bio** 
 
-I am interested in biostatistics in clinical trials, farmacogenomics, data management, evolution and bioinformatics.
+I am interested in biostatistics in clinical trials, meta-analysis, systematic review, farmacogenomics, evolution and bioinformatics.
 
 Participant as student of VieRnes de Bioinformática en el LIIGH (bioinformatics fridays at @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM)) | web page: https://viernesbioinformatica.github.io/ | Github: [ViernesBioinfo2024](https://github.com/EveliaCoss/ViernesBioinfo2024). 
 
@@ -30,10 +30,10 @@ Participant as student of VieRnes de Bioinformática en el LIIGH (bioinformatics
 
 **MSc in Biochemistry** | Posgrado en Ciencias Bioquímicas - Facultad de Química | Dr. Jorge Nieto Sotelo | 2021 - 2024
 
-**BS in Biology** | Instituto de Biología | Dr. Jorge Nieto Sotelo | 2013 - 2019
+**BSc in Biology** | Instituto de Biología | Dr. Jorge Nieto Sotelo | 2013 - 2019
 
 #### **Experience**
 
 Member of the @[Mexican Network of Plant Physiology](https://www.remfive.com/).
 
-Repository Contributions:
+#### **Repository Contributions**

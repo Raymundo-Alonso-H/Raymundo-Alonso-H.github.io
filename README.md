@@ -9,12 +9,11 @@ I am interested in biostatistics in clinical trials, farmacogenomics, data manag
 
 ### Education
 
-- MSc in Biochemistry | Posgrado en Ciencias Bioquímicas - Facultad de Química | Dr. Jorge Nieto Sotelo | 2021 - 2024
-- BS in Biology | Instituto de Biología | Dr. Jorge Nieto Sotelo | 2013 - 2019
+- **MSc in Biochemistry** | Posgrado en Ciencias Bioquímicas - Facultad de Química | Dr. Jorge Nieto Sotelo | 2021 - 2024
+- **BS in Biology** | Instituto de Biología | Dr. Jorge Nieto Sotelo | 2013 - 2019
 
 ###  Experience
 
-Member of the @JAGUAR Project, @R-ladies Morelia, @RIABIO, @LupusRGMX, @CDSB Mexico and @ISCB RSG-Mexico.
 
-###  Repository Contributions:
+###  Repository Contributions
 

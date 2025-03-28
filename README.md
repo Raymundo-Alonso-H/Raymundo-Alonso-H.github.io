@@ -4,7 +4,7 @@
 
 ### Bio
 
-I am interested in biostatistics in clinical trials, meta-analysis, systematic review, farmacogenomics, evolution and bioinformatics.
+I am interested in biostatistics in clinical trials, meta-analysis, systematic review, pharmacogenomics, evolution and bioinformatics.
 
 
 ### Education

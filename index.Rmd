@@ -13,7 +13,7 @@ links:
   #- label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
    # url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
